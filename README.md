@@ -18,5 +18,4 @@ Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?
     │   ├── map
     │   │   ├── Map.blend
     │   │   └── Map.blend1
- .gitignore
 ```
