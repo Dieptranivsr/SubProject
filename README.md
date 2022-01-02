@@ -2,6 +2,8 @@
 
 ```bash
 └── SubProject
+    ├── auto rig Pro fbx export
+    │   └── human.fbx
     ├── image model 3D
     ├── textures
     ├── Add-on
@@ -18,7 +20,6 @@
     └── unreal_project
         └── running_game
 ```
-
 
 ## Map Blender File (Large Size)
 Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?usp=sharing
