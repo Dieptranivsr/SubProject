@@ -7,8 +7,12 @@ Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?
 └── SubProject
     ├── image model 3D
     ├── textures
-    ├── **/*.css
-│   ├── favicon.ico
+    ├── Add-on
+    |   └── BlenderGIS-master.zip
+    |   └── auto_rig_pro_3.59.35.zip
+    ├── blender_file
+    |   └── human.blend
+    |   └── human.blend
 │   ├── images
 │   ├── index.html
 │   ├── js
