@@ -4,7 +4,7 @@
 Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?usp=sharing
 
 ```bash
-├── SubProject
+└── SubProject
     ├── image model 3D
     ├── textures
     ├── **/*.css
@@ -20,5 +20,5 @@ Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?
 ├── README.md
 ├── package.json
 ├── bower.json (if using bower)
-└── .gitignore
+ .gitignore
 ```
