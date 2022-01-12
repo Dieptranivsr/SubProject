@@ -31,3 +31,11 @@ Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?
 ## Project_Game Folder (Large Size)
 Link : https://drive.google.com/drive/folders/1uSXk3xuxkTfsDbxv9d47y-m9MyCBUNtI?usp=sharing
 ![game - Unreal Editor 1_12_2022 3_35_57 AM](https://user-images.githubusercontent.com/69444682/149080428-2d50118b-6e03-4308-8fb5-262e00d2000e.png)
+
+## Addition 3D Model 
+### Ninja Model
+Link: https://drive.google.com/file/d/1qOSwteRtjGmKQaRiXnfjokFTeuLH83rD/view?usp=sharing
+### MapGoodle (export from blender project)
+Link : https://drive.google.com/file/d/1UPMAXGOuyoxm6Qm8EHIzVjPdYW-lzIlr/view?usp=sharing
+### Man Model  (Hand made)
+Link : https://drive.google.com/file/d/17Ocq-QQZ7BvOj0lnqLIF40BY8YiyFCZH/view?usp=sharing
