@@ -39,7 +39,7 @@ Link : https://husteduvn-my.sharepoint.com/:u:/g/personal/diep_tt172469_sis_hust
 ### The requirement to use Project_Game Folder (10GB)
 #### Add Infinitive Blade Effect and Tree Model
 ![image](https://user-images.githubusercontent.com/69444682/149356344-30712c13-4161-491c-a002-89dabfde3e1b.png)
-#### Install Quixel Bridge And Export Fine Road Model to Unreal Project
+#### Install Quixel Bridge And Export Fine Road Physical Material to Unreal Project
 ![image](https://user-images.githubusercontent.com/69444682/149357108-38efd87f-66d0-409d-be88-e0fc20de27c1.png)
 
 
