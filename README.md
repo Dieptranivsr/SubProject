@@ -2,8 +2,6 @@
 
 ```bash
 └── SubProject
-    ├── auto rig Pro fbx_export <do not need>
-    │   └── human.fbx
     ├── image model 3D
     │   ├── MapGoogle.obj
     │   └── humanv1.obj
@@ -11,7 +9,6 @@
     ├── Add-on
     │   ├── BlenderGIS-master.zip
     │   ├── modular_tree_4_0_2_windows.zip
-    │   └── auto_rig_pro_3.59.35.zip
     ├── blender_file
     │   ├── human
     │   │   ├── human.blend
