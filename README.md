@@ -11,10 +11,10 @@
     │   ├── modular_tree_4_0_2_windows.zip
     ├── blender_file
     │   ├── human
-    │   │   ├── [human.blend]{https://github.com/Dieptranivsr/SubProject/blob/main/human.blend}
+    │   │   ├── [human.blend](https://github.com/Dieptranivsr/SubProject/blob/main/human.blend)
     │   │   └── human.blend1
     │   ├── map
-    │   │   ├── Map.blend{https://github.com/Dieptranivsr/SubProject/edit/main/README.md?plain=27}
+    │   │   ├── Map.blend(https://github.com/Dieptranivsr/SubProject/edit/main/README.md?plain=27)
     │   │   └── Map.blend1
     └── unreal_project
         └── game
