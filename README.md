@@ -33,7 +33,7 @@ Link : https://husteduvn-my.sharepoint.com/:u:/g/personal/diep_tt172469_sis_hust
 ![game - Unreal Editor 1_12_2022 5_43_08 PM](https://user-images.githubusercontent.com/69444682/149355700-af2285b0-f323-45d2-b9d4-322c2699beaf.png)
 #### Add Infinitive Blade Effect and Tree Model
 ![image](https://user-images.githubusercontent.com/69444682/149356344-30712c13-4161-491c-a002-89dabfde3e1b.png)
-#### Install Quixel Bridge And Export Fine Road Model to Unreal
+#### Install Quixel Bridge And Export Fine Road Model to Unreal Project
 ![image](https://user-images.githubusercontent.com/69444682/149357108-38efd87f-66d0-409d-be88-e0fc20de27c1.png)
 
 
