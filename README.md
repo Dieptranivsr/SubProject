@@ -20,7 +20,7 @@
         └── game
 ```
 ## Human Blender File
-![image](https://user-images.githubusercontent.com/69444682/149358506-820461da-2e93-4709-9be4-0deaaa376f92.png | width=100)
+![image](https://user-images.githubusercontent.com/69444682/149358506-820461da-2e93-4709-9be4-0deaaa376f92.png)
 
 
 ## Map Blender File (Large Size)
