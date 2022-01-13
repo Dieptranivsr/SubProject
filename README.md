@@ -42,9 +42,9 @@ Link : https://drive.google.com/drive/folders/1uSXk3xuxkTfsDbxv9d47y-m9MyCBUNtI?
 ![game - Unreal Editor 1_12_2022 3_35_57 AM](https://user-images.githubusercontent.com/69444682/149080428-2d50118b-6e03-4308-8fb5-262e00d2000e.png)
 
 ## Addition 3D Model 
-### Ninja Model
+### Ninja Model ( using Unreal Project)
 Link: https://drive.google.com/file/d/1qOSwteRtjGmKQaRiXnfjokFTeuLH83rD/view?usp=sharing
-### MapGoodle (export from blender project)
+### MapGoodle (export from blender project - using Unreal Project)
 Link : https://drive.google.com/file/d/1UPMAXGOuyoxm6Qm8EHIzVjPdYW-lzIlr/view?usp=sharing
-### Man Model  (Hand made)
+### Man Model (Hand made - using Unreal Project)
 Link : https://drive.google.com/file/d/17Ocq-QQZ7BvOj0lnqLIF40BY8YiyFCZH/view?usp=sharing
