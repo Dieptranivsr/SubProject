@@ -28,7 +28,12 @@
 Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?usp=sharing
 ![UPBGE_  E__Kihoc20211_LaptrinhNoidungso_BT_dai_BTL_Map2 blend  12_26_2021 10_27_49 PM](https://user-images.githubusercontent.com/69444682/147865955-e737dfe4-23a9-4503-bc10-9ec8392ef9db.png)
 
-## Project_Game Folder (Large Size)
+## Project_Game Folder (Large Size-10GB(Full-Add tree))
+Link : https://husteduvn-my.sharepoint.com/:u:/g/personal/diep_tt172469_sis_hust_edu_vn/EftYSbDEC2xEu_dEDChPsh8B0y9z9YkDq8kbav17l4aWcw?e=tST1SK
+![game - Unreal Editor 1_12_2022 5_43_08 PM](https://user-images.githubusercontent.com/69444682/149355700-af2285b0-f323-45d2-b9d4-322c2699beaf.png)
+)
+
+## Project_Game Folder (Large Size-2GB(not full))
 Link : https://drive.google.com/drive/folders/1uSXk3xuxkTfsDbxv9d47y-m9MyCBUNtI?usp=sharing
 ![game - Unreal Editor 1_12_2022 3_35_57 AM](https://user-images.githubusercontent.com/69444682/149080428-2d50118b-6e03-4308-8fb5-262e00d2000e.png)
 
