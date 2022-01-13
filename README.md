@@ -21,7 +21,7 @@
 ```
 
 ## Install Game
-You can play the game by downloading [GamePackage.zip]()
+You can play the game by downloading [GamePackage.zip](v)
 
 
 
