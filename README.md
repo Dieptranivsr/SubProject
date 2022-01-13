@@ -31,7 +31,9 @@ Link : https://drive.google.com/drive/folders/1wEoUXLQWAnb3XGY3_aH007aHg0KvfLe5?
 ## Project_Game Folder (Large Size-10GB(Full-Add tree))
 Link : https://husteduvn-my.sharepoint.com/:u:/g/personal/diep_tt172469_sis_hust_edu_vn/EftYSbDEC2xEu_dEDChPsh8B0y9z9YkDq8kbav17l4aWcw?e=tST1SK
 ![game - Unreal Editor 1_12_2022 5_43_08 PM](https://user-images.githubusercontent.com/69444682/149355700-af2285b0-f323-45d2-b9d4-322c2699beaf.png)
-)
+#### Add Landscape Model library and Tree Model library
+![image](https://user-images.githubusercontent.com/69444682/149356344-30712c13-4161-491c-a002-89dabfde3e1b.png)
+
 
 ## Project_Game Folder (Large Size-2GB(not full-Lack footstep audio on Road))
 Link : https://drive.google.com/drive/folders/1uSXk3xuxkTfsDbxv9d47y-m9MyCBUNtI?usp=sharing
