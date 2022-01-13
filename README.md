@@ -21,7 +21,7 @@
 ```
 
 ## Install Game
-You can play the game by downloading [GamePackage.zip](v)
+You can play the game by downloading [GamePackage.zip](https://husteduvn-my.sharepoint.com/:u:/g/personal/diep_tt172469_sis_hust_edu_vn/EftYSbDEC2xEu_dEDChPsh8B0y9z9YkDq8kbav17l4aWcw?e=h2OXQH)
 
 
 
