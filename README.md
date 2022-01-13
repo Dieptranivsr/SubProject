@@ -33,7 +33,7 @@ Link : https://husteduvn-my.sharepoint.com/:u:/g/personal/diep_tt172469_sis_hust
 ![game - Unreal Editor 1_12_2022 5_43_08 PM](https://user-images.githubusercontent.com/69444682/149355700-af2285b0-f323-45d2-b9d4-322c2699beaf.png)
 )
 
-## Project_Game Folder (Large Size-2GB(not full))
+## Project_Game Folder (Large Size-2GB(not full-Lack footstep audio on Road))
 Link : https://drive.google.com/drive/folders/1uSXk3xuxkTfsDbxv9d47y-m9MyCBUNtI?usp=sharing
 ![game - Unreal Editor 1_12_2022 3_35_57 AM](https://user-images.githubusercontent.com/69444682/149080428-2d50118b-6e03-4308-8fb5-262e00d2000e.png)
 
