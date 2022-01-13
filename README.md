@@ -19,6 +19,12 @@
     └── unreal_project
         └── game
 ```
+
+## Install Game
+You can play the game by downloading [GamePackage.zip]()
+
+
+
 ## Human Blender File
 ![image](https://user-images.githubusercontent.com/69444682/149358506-820461da-2e93-4709-9be4-0deaaa376f92.png)
 
