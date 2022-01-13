@@ -2,7 +2,7 @@
 
 ```bash
 └── SubProject
-    ├── auto rig Pro fbx_export
+    ├── auto rig Pro fbx_export <don't need>
     │   └── human.fbx
     ├── image model 3D
     ├── textures
