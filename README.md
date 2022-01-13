@@ -2,9 +2,9 @@
 
 ```bash
 └── SubProject
-    ├── image model 3D
-    │   ├── MapGoogle.obj
-    │   └── humanv1.obj
+    ├── fbx
+    │   ├── MapGoogle.fbx
+    │   └── humanv1.fbx
     ├── textures
     ├── Add-on
     │   ├── BlenderGIS-master.zip
