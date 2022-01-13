@@ -5,6 +5,8 @@
     ├── auto rig Pro fbx_export <do not need>
     │   └── human.fbx
     ├── image model 3D
+    │   ├── MapGoogle.obj
+    │   └── humanv1.obj
     ├── textures
     ├── Add-on
     │   ├── BlenderGIS-master.zip
